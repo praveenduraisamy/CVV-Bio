@@ -1,0 +1,83 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Abel', sans-serif;
+  }
+h1{
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  font-family: 'Abel', sans-serif;
+  color: #66BFBF;
+  }
+h2{
+  font-family: 'Albert Sans', sans-serif;
+  color: #66BFBF;
+  }
+h3{
+  font-family: 'Kaushan Script', cursive;
+  color: #11999E;
+  }
+  hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 35px auto;
+  }
+.TC {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+    }
+
+  .BTech {
+    text-decoration: underline;
+    color: #66BFBF;
+  }
+  .astu{
+    color: #66BFBF;
+  }
+  .top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+  }
+    .bottom-cloud{
+    position: absolute;
+    left: 270px;
+    bottom: 250px;
+  }
+  .skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+  }
+  .admin{
+    height: 20%;
+    width: 20%;
+    margin-right: 20px;
+    float: left;
+  }
+  .leadership{
+    height: 20%;
+    width: 20%;
+    margin-left: 20px;
+    float: right;
+  }
+  .MC{
+    margin-top: 100px;
+  }
+  .BC{
+  background-color: #E4F9F5;
+  margin-top: 20px;
+  height: 105px;
+  position: relative;
+  padding: 40px 0 20px;
+  }
+  a{
+    color: #11999E;
+  }
+  a:hover{
+    color:#EB1D36; 
+  }
